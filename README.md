@@ -10,3 +10,5 @@ To run the system do the following in the terminal.
 3. cd to bin where the .txt file is.
 
 4. Finally type "./library books.txt" to intialise the library system
+
+FYI: This project was submitted to Uni of Leeds
